@@ -1,0 +1,8 @@
+env/
+*.vscode/
+*/env
+./vscode
+.vscode
+.vscode/
+env
+*env/

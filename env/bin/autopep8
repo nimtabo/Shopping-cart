@@ -1,4 +1,4 @@
-#!/home/chacha/works/demo_rest/env/bin/python3
+#!/home/kino/Desktop/Projects/Shopping-cart/env/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'autopep8==1.4.4','console_scripts','autopep8'
 __requires__ = 'autopep8==1.4.4'
 import re

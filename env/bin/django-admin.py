@@ -1,4 +1,4 @@
-#!/home/chacha/works/demo_rest/env/bin/python3
+#!/home/kino/Desktop/Projects/Shopping-cart/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
